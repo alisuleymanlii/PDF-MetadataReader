@@ -26,14 +26,9 @@ A simple **C# console application** that reads metadata from PDF files and keeps
 1. Clone the repository:
 git clone https://github.com/alisuleymanlii/PDF-MetadataReader.git
 
-2. Install dependencies:
+2. Install dependencies: dotnet add package UglyToad.PdfPig
 
-dotnet add package UglyToad.PdfPig
-
-3. Build and run the project:
-
-dotnet run
-
+3. Build and run the project: dotnet run
 
 ## 🚀 Usage
 
